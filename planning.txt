@@ -1,3 +1,4 @@
+planning semaine pour Chadia
 lundi = Cobol
 mardi = java
 mercredi = Hibernate
