@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Planning de travail
+=======
+
+Planning de la semaine
+>>>>>>> editBranch
 lundi
 mardi
 mercredi
